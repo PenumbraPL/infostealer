@@ -1,4 +1,6 @@
 # INFOSTEALER
+
+You need to configure py_drive_fun.py and py_drive_service.py
 ----------------------------------------------------
 - python env: https://coderslegacy.com/pyinstaller-virtual-environment-with-venv/
 - folder id: https://robindirksen.com/blog/where-do-i-get-google-drive-folder-id
