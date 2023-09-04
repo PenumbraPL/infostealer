@@ -9,6 +9,7 @@ python -m venv [env name]
 (link)
 
 pip list
+
 pip install -r requirements.txt
 
 (last step - after full config - google drive)
