@@ -5,11 +5,14 @@
 - google drive bot: https://obikastanya.medium.com/easy-way-to-integrate-your-python-apps-with-google-drive-api-2f29ed0be239
 ----------------------------------------------------
 python -m venv [env name]
+
 (link)
+
 pip list
 pip install -r requirements.txt
 
 (last step - after full config - google drive)
+
 \[env name]\Scripts\pyinstaller.exe 
 --noconsole --onefile --clean
 --paths '[path]\[env name]\Lib\site-packages' 
